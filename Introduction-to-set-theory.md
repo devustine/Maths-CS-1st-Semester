@@ -40,3 +40,10 @@ In this method, we list all the elements in the set. To write or specify a set i
 - For sets with endless numbers, for example all even numbers, we place the ellipsis(...) at the end or begining of the list. for example set showing even numbers D = {2,4,6,8,...} this is to indicate that the list continues forever. Or set of all negative and positive number E = {...-3, -2, -1, 0, 1, 2, 3,...}.
 
 ## 2 Set Builder Notation
+
+Set Builder notation is a way to define a set by describing the properties or conditions that its elements must satisfy, rather than just listing all the elements just like the roster notation method. In the set builder notation, we write a set as:
+S = {x: x satifies some conditions (s)} or S = {x| x satifies some conditions (s)}
+- "x" that stands for any item that could be in the set.
+- ":" or "|" stands for "such that” (a filter or condition)
+
+for example, Set A = {green, white} can be written as A = {x: x is a colour in the Nigerian Flag}. So set builder notation is way way of describing elements in a set instead of listing it. So, it’s defining the same set {green, white}, but using a logical rule instead of hardcoded values.
