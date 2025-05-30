@@ -39,11 +39,11 @@ In this method, we list all the elements in the set. To write or specify a set i
 - For sets with many elements especially those following an implicit pattern, the list of members can be abbreviated using an ellipsis. For example set S={1,2,3,4,…,100}. since we’re listing elements explicitly in roster notation, writing all 100 values would be tedious. so we use ellipsis(...) to compress the set. It is used when you you want to quickly give a sense of the range of numbers showing where it starts and ends.
 - For sets with endless numbers, for example all even numbers, we place the ellipsis(...) at the end or begining of the list. for example set showing even numbers D = {2,4,6,8,...} this is to indicate that the list continues forever. Or set of all negative and positive number E = {...-3, -2, -1, 0, 1, 2, 3,...}.
 
-## 2 Set Builder Notation
+## 2. Set Builder Notation
 
 Set Builder notation is a way to define a set by describing the properties or conditions that its elements must satisfy, rather than just listing all the elements just like the roster notation method. In the set builder notation, we write a set as:
 S = {x: x satifies some conditions (s)} or S = {x| x satifies some conditions (s)}
 - "x" stands for any item that could be in the set.
 - ":" or "|" stands for "such that” (a filter or condition)
 
-for example, Set A = {green, white} can be written as A = {x: x is a colour in the Nigerian Flag}. So set builder notation is a way of describing elements in a set instead of listing it. So, it’s defining the same set {green, white}, but using a logical rule instead of hardcoded values.
+for example, Set A = {green, white} can be written as A = {x: x is a colour in the Nigerian Flag}. So set builder notation is a way of describing elements in a set instead of listing it. So, it’s defining the same set {green, white}, **(remember we cannot write {green, white, green} because a set cannot have duplicate elements)** but using a logical rule instead of hardcoded values.
