@@ -25,4 +25,4 @@ A = {a, b, c}
 - A is the name of the set.
 - a, b, c are the elements of that set.
 
-As you can see it helps keeps things clear and standardized. It is not a strict rule it's just a notation. like how variables in programming languages like python often use camelCase or snake_case.
+As you can see it helps keeps things clear and standardized. It is not a strict rule it's just a notation. Just like how we name variables in programming languages like python using camelCase or snake_case.
