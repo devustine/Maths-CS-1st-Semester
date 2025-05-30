@@ -48,4 +48,4 @@ S = {x: x satifies some conditions (s)} or S = {x| x satifies some conditions (s
 
 for example, Set A = {green, white} can be written as A = {x: x is a colour in the Nigerian Flag} in set builder notation. So set builder notation is a way of describing elements in a set instead of listing it. So, it’s defining the same set {green, white}, but using a logical rule instead of hardcoded values. **Remember we cannot write {green, white, green} because a set cannot have duplicate elements.**
 
-Another example is set A = {0, 1, 2, 3, 4} we can write it as A = (x: x is less than 5} set builder notation. All numbers 0,1,2,3,4 is less than 5.
+Another example is set A = {0, 1, 2, 3, 4} we can write it as A = {x: x is less than 5} in set builder notation. All numbers 0,1,2,3,4 is less than 5.
