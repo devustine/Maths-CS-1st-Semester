@@ -34,4 +34,5 @@ In this method, we list all the elements in the set. To write or specify a set i
 
 ### When is the Roster notation method used?
 - It is used when the set is finite. In other words, when the number of elements in the set is not much.
-- Every element is written explicitly. This means when listen elements in a set using the roster notation method, you will have to list out all the elements one by one. For example if the elements of a set is **1,2,3,4**. You do not list it as **A = {some small numbers}**, it should be listed this way **A = 1,2,3,4**
+- Every element is written explicitly. This means when listing elements in a set using the roster notation method, you will have to list out all the elements one by one. For example if the elements of a set is **1,2,3,4**. You do not list it as **A = {some small numbers}**, it should be listed this way **A = 1,2,3,4**
+- The order of the set does not matter, but duplicates are not allowed. For example set A = {1,2,3} is the same as Set A = {3,2,1} so the order or the way the elements are arranged, does not matter. Also, duplicates are not allowed for example sets like this set A = {1,1,2,3}. This is not allowed because 1 was written twice.
