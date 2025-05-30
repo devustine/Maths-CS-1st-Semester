@@ -46,4 +46,4 @@ S = {x: x satifies some conditions (s)} or S = {x| x satifies some conditions (s
 - "x" stands for any item that could be in the set.
 - ":" or "|" stands for "such that” (a filter or condition)
 
-for example, Set A = {green, white} can be written as A = {x: x is a colour in the Nigerian Flag}. So set builder notation is way way of describing elements in a set instead of listing it. So, it’s defining the same set {green, white}, but using a logical rule instead of hardcoded values.
+for example, Set A = {green, white} can be written as A = {x: x is a colour in the Nigerian Flag}. So set builder notation is a way of describing elements in a set instead of listing it. So, it’s defining the same set {green, white}, but using a logical rule instead of hardcoded values.
