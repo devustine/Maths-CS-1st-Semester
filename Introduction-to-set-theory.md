@@ -29,8 +29,9 @@ As you can see it helps keeps things clear and standardized. It is not a strict 
 
 # Three Types of Ways to Describe a Set
 
-##1. Roster Notation or enumeration Method: In this method, we list all the elements in the set. To write or specify a set in the roster notation method, The names or symbols representing the elements or objects in the set is written in a line and seperated by comma and enclosed in braces. E.g set A={1,2,3,4}.
+## 1. Roster Notation or enumeration Method: 
+In this method, we list all the elements in the set. To write or specify a set in the roster notation method, The names or symbols representing the elements or objects in the set is written in a line and seperated by comma and enclosed in braces. E.g set A={1,2,3,4}.
 
-###When is the Roster notation method used?
+### When is the Roster notation method used?
 - It is used when the set is finite. In other words, when the number of elements in the set is not much.
 - Every element is written explicitly. This means when listen elements in a set using the roster notation method, you will have to list out all the elements one by one. For example if the elements of a set is **1,2,3,4**. You do not list it as **A = {some small numbers}**, it should be listed this way **A = 1,2,3,4**
